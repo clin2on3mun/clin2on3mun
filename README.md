@@ -1,7 +1,7 @@
 
 <img width=100% height= 30% align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAwODEzOGQ0ODk2NmY0YmRiM2RhZjdkN2QxOGIyMDlmZjI5NzU0YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" alt ="coding">
 <h1 align="center">Hi 👋, I'm MUNANA Clinton</h1>
-<h3 align="center">Iam Munana Clinton, A passionate Full-stack software developer</h3>
+<h3 align="center">Iam a passionate Full-stack software developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clin2on3mun&label=Profile%20views&color=0e75b6&style=flat" alt="clin2on3mun" /> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently studying at **Microverse**
 
-- 🌱 I’m currently learning **REACT,REDUX on frontend and Ruby on backend**
+- 🌱 I’m ski
 
 - 💬 Ask me about **Javascript and REACT**
 
