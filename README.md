@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clin2on3mun" alt="clin2on3mun" /></a> </p>
 
-- 🔭 I’m currently studying at **Microverse**
+- 🌱 I’m skilled in JAVASCRIPT, REACT, ANGULAR and Ruby on Rails
 
-- 🌱 I’m ski
-
-- 💬 Ask me about **Javascript and REACT**
+- 💬 Ask me about **Javascript, REACT, ANGULAR and Rails**
 
 - 📫 How to reach me **munanaclinton@gmail.com**
 
